@@ -1,0 +1,26 @@
+# Maven build files
+target/
+!target/BlogWebsite-0.0.1-SNAPSHOT.jar
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Other unnecessary files
+README.md
+HELP.md
